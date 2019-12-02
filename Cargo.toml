@@ -24,4 +24,4 @@ categories = ["web-programming"]
 
 [dependencies]
 bytes = "0.5"
-http = "0.1.16"
+http = { git = "https://github.com/hyperium/http" }
